@@ -1,12 +1,12 @@
 # CircleFish
 
-TODO: Write a gem description
+Circle CI webhook wrapper gem.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
-    gem 'CircleFish'
+    gem 'circlefish'
 
 And then execute:
 
@@ -14,11 +14,14 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install CircleFish
+    $ gem install circlefish
 
 ## Usage
 
-TODO: Write usage instructions here
+    webhook = Circlefish.from_json(request.body.to_s)
+
+    webhook.status
+    # => "success"
 
 ## Contributing
 
