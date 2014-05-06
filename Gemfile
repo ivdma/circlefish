@@ -1,6 +1,8 @@
 source 'https://rubygems.org'
 
-gem 'coveralls', require: false
+group :test do
+  gem 'coveralls', '~> 0.7.0', require: false
+end
 
 # Specify your gem's dependencies in CircleFish.gemspec
 gemspec
