@@ -18,10 +18,12 @@ Or install it yourself as:
 
 ## Usage
 
-    webhook = Circlefish.from_json(request.body.to_s)
+```ruby
+webhook = Circlefish.from_json(request.body.to_s)
 
-    webhook.status
-    # => "success"
+webhook.status
+# => "success"
+```
 
 ## Contributing
 
