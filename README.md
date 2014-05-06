@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/ivdma/circlefish.svg?branch=v0.0.1)](https://travis-ci.org/ivdma/circlefish)
 [![Dependency Status](https://gemnasium.com/ivdma/circlefish.svg)](https://gemnasium.com/ivdma/circlefish)
+[![Code Climate](https://codeclimate.com/github/ivdma/circlefish.png)](https://codeclimate.com/github/ivdma/circlefish)
 [![Coverage Status](https://coveralls.io/repos/ivdma/circlefish/badge.png)](https://coveralls.io/r/ivdma/circlefish)
 
 Circle CI webhook wrapper gem.
