@@ -1,5 +1,7 @@
 # CircleFish
 
+[![Build Status](https://travis-ci.org/imalijkh/circlefish.svg?branch=master)](https://travis-ci.org/imalijkh/circlefish)
+
 [![Dependency Status](https://gemnasium.com/imalijkh/circlefish.svg)](https://gemnasium.com/imalijkh/circlefish)
 
 Circle CI webhook wrapper gem.
