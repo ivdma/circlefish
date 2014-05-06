@@ -1,6 +1,6 @@
 # CircleFish
 
-[![Build Status](https://travis-ci.org/imalijkh/circlefish.svg?branch=master)](https://travis-ci.org/imalijkh/circlefish)
+[![Build Status](https://travis-ci.org/ivdma/circlefish.svg?branch=v0.0.1)](https://travis-ci.org/ivdma/circlefish)
 
 [![Dependency Status](https://gemnasium.com/imalijkh/circlefish.svg)](https://gemnasium.com/imalijkh/circlefish)
 
