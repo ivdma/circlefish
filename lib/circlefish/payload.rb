@@ -24,5 +24,9 @@ module Circlefish
     attribute :status,            String
     attribute :retry_of,          Integer
     attribute :steps,             Array[Step]
+
+    def success?
+      status == 'success'
+    end
   end
 end

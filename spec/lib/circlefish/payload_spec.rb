@@ -9,5 +9,8 @@ describe Circlefish::Payload do
     its(:vcs_url)     { should eq 'https://github.com/circleci/mongofinil' }
     its(:steps)       { should be_kind_of Array }
     its("steps.size") { should be 3 }
+
+    # Custom accessors
+    its(:success?)    { should be true }
   end
 end
